@@ -5,4 +5,4 @@ Available on the Docker Index as [thefactory/mesos](https://index.docker.io/u/th
     docker pull thefactory/mesos
 
 ### Versions
-* Mesos 0.20.0
+* Mesos 0.20.1
